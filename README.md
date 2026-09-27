@@ -7,6 +7,8 @@ user to gain root privileges on the entire website with a maliciously crafted pa
 
 [The full writeup can be found here](https://vhyrro.neorg.org/posts/critical-luarocks-exploit-cve).
 
+[luarocks.org Incident Report](https://luarocks.org/security-incident-september-2026).
+
 ## Quick Breakdown
 
 The exploit chain works as follows:
